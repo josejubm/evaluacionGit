@@ -44,6 +44,10 @@
             </table>
 
 
+            <div>
+                <a href="imagen.jsp"> VER IMAGEN </a>
+            </div>
+
         </body>
 
         </html>
